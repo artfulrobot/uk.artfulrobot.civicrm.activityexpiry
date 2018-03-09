@@ -29,3 +29,4 @@ An organisation may maintain an activity on -say- a campaign group’s record wh
 - ?? Configuration allows you to select which activity types should trigger expiry of all previous activities of that type when a new one is added.
 - ?? Report to find activities nearing their expiry date? E.g. identify staff who should be booked on that first aid course again within the next 2 months.
 
+Please use the [issue queue](https://github.com/artfulrobot/uk.artfulrobot.civicrm.activityexpiry/issues) to discuss.
